@@ -90,4 +90,4 @@ bot.on('message', async message => {
     bot.rUser = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
     bot.uId = message.author.id;
 });
-bot.login(token);
+bot.login(NzYxODk5Mzk5MjE4ODU1OTQ3.X3hUHA.cZRyWSEizJYFLlrK2cR-uMrOxEE);
